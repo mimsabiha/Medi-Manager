@@ -46,7 +46,6 @@ We have added doctors and ambulance only from Sylhet Regions.
 
 ## Project Contributions
 1. Abdul Kader Akash <br />
-   Reg No. 2018331055<br />
   * Login & SignUp using Firebase SignUp Authentication
   * Email Verication
   * User Profile
@@ -55,7 +54,7 @@ We have added doctors and ambulance only from Sylhet Regions.
   * Health Tips
   * Ambulance & Doctor Profile UI
 2. Sabiha Jahan Mim <br />
-   Reg No. 2018331059 <br />
+   
   * Nearby Hospitals and Pharmacy
   * Chatbot using DialogFlow
   * OCR Text Reader
@@ -80,15 +79,11 @@ SL|Library  |Contributor
 #### Group Number - 11
 #### Group Name - Team_Bona_Fide
 1.Name  :Abdul Kader Akash<br />
- Reg. No:2018331055<br />
- Phone Number: +8801791615539<br />
  Email : akashsust55@gmail.com<br />
  
  
 2.Name :Sabiha Jahan Mim<br />
-  Reg. No:2018331059<br />
-  Phone Number: +8801516060479<br />
-  Email : sabiha59@student.sust.edu<br />
+ Email : sabiha59@student.sust.edu<br />
 
 <small>&copy; 2021 - Dept. of CSE, SUST, BD</small>
 
